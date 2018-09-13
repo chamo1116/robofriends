@@ -1,6 +1,6 @@
 robofriends
 
-Tutorial for udemy course - React To run the project:
+Search of robots with react
 
     Clone this repo
     Run npm install
